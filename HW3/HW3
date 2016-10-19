@@ -1,16 +1,36 @@
+/*
 Tyler Cooper
-
+Homework #3
+*/
 
 Pg 389-390
 Exercises:  6, 8, 9, 19
 
+6)  put() 3
+    get() 4
+    total = 7
+    With words W and distinct words D
+    (7*W) + (W/D)
+
+8)  
+
+9)
+
+19) FrequencyCounter.java
 
 Pg 416-418
 Exercises: 1, 9
 
+1)  26
+
+9)  Picture3&9.jpg
+
 
 3. Draw all possible binary search trees containing the 4 elements [1,2,3,4]
+Picture3&9.jpg
 
 4. What is the minimum number of nodes that a binary tree can have with a depth of N?
+2^N
 
 5. What is the maxinum number of nodes that a binary tree can have with a depth of N?
+2*2^N
