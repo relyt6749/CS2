@@ -30,7 +30,7 @@ Exercises: 1, 9
 Picture3&9.jpg
 
 4. What is the minimum number of nodes that a binary tree can have with a depth of N?
-2^N
+N
 
 5. What is the maxinum number of nodes that a binary tree can have with a depth of N?
-2*2^N
+2^N-1
