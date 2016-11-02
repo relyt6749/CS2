@@ -1,0 +1,16 @@
+/*
+HW#4
+Tyler Cooper
+3.2 Problems 1, 5, 15
+*/
+
+1) Picture 1
+
+5) Assuming the keys are in an order of 1 being most common and 10 being least common, I would have 1 as the root, 2 as the left child 3 as the right child, 4 as the left child and 5 as the right child of 2, 6 as the left child and 7 as the right child of 3, 8 as the left child and 9 as the right child of 4, and 10 as the left child of 5, and so on. This way the most common is the fastest return, 2 and 3 have the same return time, 4 5 6 7 have the same return time, and 8 9 10 have the same return time.  
+
+15) a)  Floor Q examines the root and sees it is higher than E so it goes to the right child of E and finds Q
+    b)  Select 5
+    c)  
+    d)  
+    e)  
+    f)  
