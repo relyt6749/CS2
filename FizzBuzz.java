@@ -2,7 +2,7 @@
 Name: Tyler Cooper
 HW#: 1
 Title: FizzBuzz
-Outside Resource: Faound at http://codereview.stackexchange.com/questions/11489/fizzbuzz-implementation
+Outside Resource: Found at http://codereview.stackexchange.com/questions/11489/fizzbuzz-implementation
 */
 public class FizzBuzz {
     public static void main(String[] args) {
