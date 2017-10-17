@@ -1,0 +1,27 @@
+Hw5 Time Log
+
+10/12
+Start 5pm
+Create Skelleton program from HW4 to use for HW5.
+Comment out sections that I don't want but might need later
+Start altering existing methods to new assignment.
+Test for compile errors and test small sections to ensure no exceptions or errors.
+End 9pm
+
+10/14
+Start 5pm
+Continue altering existing methods to new assignment.
+Test for compile errors and test small sections to ensure no exceptions or errors.
+End 7:30pm
+
+10/15
+Start 5pm
+Continue altering existing methods to new assignment.
+Remove commented out sections from HW4 that were not used.
+Start final testing to ensure no errors or exceptions are thrown.
+End 8pm
+
+10/16
+Start 5pm
+Conclude testing and clean up any excess code that I do not deem necessary.
+End 10pm
