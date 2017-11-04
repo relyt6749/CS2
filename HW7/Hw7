@@ -1,1 +1,4 @@
 
+HW7
+
+In this program I ask the user what they would like the hash key to be. I haven't been able to get past an implimentation problem I was having while using interface. I was using interface to link to the linkedList and Node class but it was creating compile errors and those are unacceptable to turn in. 
