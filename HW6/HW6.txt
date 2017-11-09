@@ -1,0 +1,6 @@
+Wall Clock for SIZE: 10 and BIG: 100
+	Merge Sort: 0 seconds.
+	Internal Sort: 0 seconds.
+CPU Time for SIZE: 10 and BIG: 100
+	Merge Sort: 0 nanoseconds.
+	Internal Sort: 3266 nanoseconds.
