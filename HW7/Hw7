@@ -1,4 +1,4 @@
 
 HW7
 
-In this program I ask the user what they would like the hash key to be. I haven't been able to get past an implimentation problem I was having while using interface. I was using interface to link to the linkedList and Node class but it was creating compile errors and those are unacceptable to turn in. 
+In this program I ask the user to input a number grater than 2 and then finds the closest prime above and below the input number. The user then selects which prime they would like to use. The number the user selects will then become the size of the array. I haven't been able to get past an implimentation problem I was having while using package. I was using package to link to the linkedList and Node class but it was creating a runtime error and after some searching i discovered the error was with the node class and linked list class. The linked list class is having an issue with the node class and I can't figure out why.
